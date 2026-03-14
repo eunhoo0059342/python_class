@@ -334,7 +334,7 @@ class Display:
 
 class Scoreboard:
 
-    def __init__(self, path='ranking json'):
+    def __init__(self, path='ranking.json'):
         self.path = path
         self.scoreboard = self.load_scoreboard(path)
 
