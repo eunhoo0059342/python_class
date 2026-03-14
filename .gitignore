@@ -1,0 +1,13 @@
+# 내가 저장을 안하고 싶은 파일이나 디렉토리를 작성해주시면된다.
+# 1. main.py(수업당일 작성한 코드)
+# 2. gui 실행파일만들때 나왔던 부산물파일 (build/, dist/, *.spec)
+# 3. vscode설정파일 .vscode
+# 4. 이름은 상관없이 확장자로 .spec 파일은 안넣고 싶어.
+#    (모든 *.spec)
+
+
+main.py
+.vscode
+build/
+dist/
+*.spec
